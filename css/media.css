@@ -1,0 +1,323 @@
+@media(max-width:767px){
+    .desktop_hide{
+        display: block !important;
+    }
+    .desktop_hide{
+        height: 40px;
+    }
+    .logo{
+        display: none;
+    }
+    .header_info {
+        justify-content: left;
+        flex-wrap: wrap;
+    }
+    .icon {
+        font-size: 18px;
+    }
+    .info_item {
+        margin-left: 20px;
+    }
+    .info h4 {
+        font-size: 18px;
+    }
+    .info p {
+        font-size: 14px;
+    }
+    .top_header{
+        display: none;
+    }
+    .btn-appoint{
+        display: none;
+    }
+    .media_info {
+        display: block;
+        width: 50%;
+    }
+    .navbar-collapse{
+        display: flex;
+    }
+    .navbar-nav{
+        width: 50%;
+        padding-left: 0px;
+    }
+    .info_item {
+        margin-bottom: 20px;
+   
+    }
+    .main_header {
+        padding: 12px 0;
+    }
+    .info_item .btn-appoint{
+        display: block;
+    }
+    .nav-link{
+        display: inline-block;
+    }
+    .info p {
+
+        color: #f9f9f9;
+    }
+    .owl-carousel .owl-item img {
+        display: none;
+    }
+    .height {
+        text-align: center;
+    }
+    .height_two {
+        text-align: center;
+    }
+    .welcome_heading {
+        margin-top: 56%;
+        text-align: center;
+    }
+    .welcome_heading h1 {
+        font-size: 22px;
+        font-weight: 600;
+        margin-bottom: 12px;
+    
+    }
+    .welcome_heading p {
+        font-size: 14px;
+        margin-bottom: 0px;
+    }
+    .welcome_info h2 {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+    .welcome_info p {
+        font-size: 14px;
+        margin-bottom: 0;
+    }
+    .welcome_info {
+        margin: 16px 0;
+        text-align: center;
+    }
+    .dr_img {
+        top: 0;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 40%;
+        margin-top: 30px;
+    }
+    .dr_img img {
+        width: 100%;
+    }
+    .section_title h1 {
+        font-size: 28px;
+    }
+    .doctor_info {
+        width: 48%;
+    }
+    .service_info {
+        width: 48%;
+    }
+    .service_logo h4 {
+        font-size: 20px;
+    }
+    .service_logo img {
+        margin-right: 4px;
+    }
+    .input_field {
+        width: 74%;
+    }
+    .input_field input {
+        padding: 13px 105px;
+
+    }
+
+}
+@media(max-width:575px){
+    .desktop_hide{
+        display: block !important;
+    }
+    .desktop_hide{
+        height: 40px;
+    }
+    .logo{
+        display: none;
+    }
+    .header_info {
+        justify-content: left;
+        flex-wrap: wrap;
+    }
+    .icon {
+        font-size: 18px;
+    }
+    .info_item {
+        margin-left: 20px;
+    }
+    .info h4 {
+        font-size: 18px;
+    }
+    .info p {
+        font-size: 14px;
+    }
+    .top_header{
+        display: none;
+    }
+    .btn-appoint{
+        display: none;
+    }
+    .media_info {
+        display: block;
+        width: 50%;
+    }
+    .navbar-collapse{
+        display: flex;
+    }
+    .navbar-nav{
+        width: 50%;
+        padding-left: 0px;
+    }
+    .info_item {
+        margin-bottom: 20px;
+   
+    }
+    .main_header {
+        padding: 12px 0;
+    }
+    .info_item .btn-appoint{
+        display: block;
+    }
+    .nav-link{
+        display: inline-block;
+    }
+    .info p {
+
+        color: #f9f9f9;
+    }
+    .banner_img{
+        display: none;
+    }
+    .height {
+        text-align: center;
+    }
+    .height_two{
+        text-align: center;
+    }
+    .dr_img{
+        top: 0;
+        left: 50%;
+        transform: translateX(-50%);
+        margin-top: 30px;
+    }
+    .welcome_heading {
+        margin-top: 40%;
+        text-align: center;
+    }
+    .welcome_heading h1 {
+        font-size: 22px;
+        font-weight: 600;
+        margin-bottom: 12px;
+    
+    }
+    .welcome_heading p {
+        font-size: 14px;
+        margin-bottom: 0px;
+    }
+    .welcome_info h2 {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+    .welcome_info p {
+        font-size: 14px;
+        margin-bottom: 0;
+    }
+    .welcome_info {
+        margin: 16px 0;
+        text-align: center;
+    }
+    .section_title h1 {
+        font-size: 22px;
+    }
+    .section_title p {
+        font-size: 14px;
+    }
+    .doctor_area {
+        align-items: center;
+        justify-content: center;
+    }
+    .doctor_info {
+        width: 80%;
+    }
+    .service_area {
+        justify-content: center;
+    }
+    .service_info {
+        width: 80%;
+    }
+    .service_logo h4 {
+        font-size: 18px;
+    }
+    .service p {
+        padding-bottom: 14px;
+    }
+    .service h6 {
+        font-size: 14px;
+    }
+    .service_logo img {
+        margin-right: 12px;
+    }
+    .pricing_section {
+        padding: 0;
+    }
+    .pricing_head h2 {
+        font-size: 20px;
+    }
+    .price h1 {
+        font-size: 26px;
+    }
+    .dental_logo img {
+        width: 50%;
+    }
+    .icon_info :first-child {
+        margin-left: 0px;
+    }
+    .dental_icon i {
+        font-size: 24px;
+    }
+    .footer_info h2 {
+        font-size: 22px;
+        margin-bottom: 20px;
+    }
+    .signup_btn .btn_send {
+        padding: 0;
+        background: #f69165;
+        padding: 13px 27px;
+        font-size: 14px;
+    }
+    .social_icon_list ul li {
+        margin-left: 5px;
+        height: 35px;
+        width: 35px;
+
+    }
+    .input_field {
+        width: 62%;
+    }  
+    .section_title_carousel p {
+        font-size: 14px;
+    } 
+}
+@media(max-width:450px){
+    .navbar-collapse {
+        display: inline-block;
+    }
+    .media_info {
+        display: block;
+        width: 80%;
+    }
+    .banner h1 {
+        font-size: 24px;
+    }
+    .banner h2 {
+        font-size: 22px;
+    }
+    .info_box img {
+        width: 52px;
+    }
+    .info_text p {
+        font-size: 14px;
+    }
+}
